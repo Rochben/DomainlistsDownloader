@@ -1,6 +1,6 @@
 import requests, os, csv, getpass
 
-# List-related ariables
+# List related variables
 email = input('Please type in your email address: ')
 password = getpass.getpass('Please type in your password: ')
 list_type = input('Please select the list type (full, new, deled, fulldns, newdns, deleteddns): ') or 'full'
