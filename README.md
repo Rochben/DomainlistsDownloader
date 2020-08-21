@@ -4,15 +4,13 @@ A simple Python script used to download lists from [Domainlists.io](https://doma
 ##DOMAINLISTS.IO API description
 *For power users and developers. Use it for batch domain lists downloads.*
 
-##Send simple GET-request to
-
-`https://domainlists.io/api/`
+## Send simple GET-request to `https://domainlists.io/api/`
 
 API requires an active PRO plan subscription!
 
-##Overview
+## Overview
 
-###Request format
+### Request format
 `https://domainlists.io/api/LIST_TYPE/ZONE_CODE/YOUR_LOGIN/YOUR_PASSWORD/`
 
 ###Results
