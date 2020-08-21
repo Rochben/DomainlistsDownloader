@@ -1601,7 +1601,7 @@ Endpoint: `https://domainlists.io/api/tlds/list/EMAIL/PASS/`
 |.xn--fct429k	|1572
 |.xn--gckr3f0f	|1573
 |.xn--gk3at1e	|1574
-|.xn--jlq61u9w7b	1575
+|.xn--jlq61u9w7b	|1575
 |.xn--jvr189m	|1576
 |.xn--rovu88b	|1577
 |.zappos	|1578
