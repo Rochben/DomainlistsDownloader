@@ -30,9 +30,9 @@ In case of error you'll get an error description in plain text:
 `Incorrect zone id`  
 
 #### Limits & warnings
-API requires an active subscription ([PRO plan](https://domainlists.io/#pricing))
-You can call API methods a maximum of 3000 times per day
-Some of the domain lists are really HUGE. The size of the 'all-in-one' zone file is about 3 Gb.
+API requires an active subscription ([PRO plan](https://domainlists.io/#pricing)).  
+You can call API methods a maximum of 3000 times per day.  
+Some of the domain lists are really HUGE. The size of the 'all-in-one' zone file is about 3 Gb.  
 
 ### Variables
 #### YOUR_LOGIN, YOUR_PASSWORD  
