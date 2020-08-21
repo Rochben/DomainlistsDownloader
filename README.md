@@ -51,7 +51,7 @@ Endpoint: https://domainlists.io/api/tlds/list/EMAIL/PASS/
 Note: you can list just Top 5 TLDs per category by passing querystring like:
 https://domainlists.io/api/tlds/list/EMAIL/PASS/?top
 
-| ZONE_CODE (domain TLD IDs): |
+
 | TLD name  | ZONE_CODE |
 | ------------- | ------------- |
 |ALL DOMAINS|all_zones|
@@ -61,32 +61,32 @@ https://domainlists.io/api/tlds/list/EMAIL/PASS/?top
 |.net	|537
 |.org	|538
 |.gratis	|1
-.insure	2
-.investments	3
-.limited	4
-.wtc	5
-.airforce	6
-.accountants	7
-.claims	8
-.credit	9
-.digital	10
-.foo	11
-.schule	12
-.soy	13
-.surgery	14
-.tax	15
-.wtf	16
-.luxe	17
-.guide	18
-.audio	19
-.hiphop	20
-.loans	21
-.church	22
-.life	23
-.beer	24
-.juegos	25
-.rio	26
-.reise	27
+|.insure	|2
+|.investments	|3
+|.limited	|4
+|.wtc	|5
+|.airforce	|6
+|.accountants	|7
+|.claims	|8
+|.credit	|9
+|.digital	|10
+|.foo	|11
+|.schule	12
+|.soy	13
+|.surgery	14
+|.tax	15
+|.wtf	16
+|.luxe	17
+|.guide	18
+|.audio	19
+|.hiphop	20
+|.loans	21
+|.church	22
+|.life	23
+|.beer	24
+|.juegos	25
+|.rio	26
+|.reise	27
 .xn--4gbrim	28
 .engineer	29
 .attorney	30
