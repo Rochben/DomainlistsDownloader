@@ -3,7 +3,7 @@ A simple Python script used to download lists from [Domainlists.io](https://doma
 ===========
 [![Variables](https://img.shields.io/badge/<Variables>-<STATUS>-<COLOR>.svg)](https://github.com/Rochben/DomainlistsDownloader#variables)
 [![Zone Codes](https://img.shields.io/badge/<Zone Codes>-<STATUS>-<COLOR>.svg)](https://github.com/Rochben/DomainlistsDownloader#list-all-currently-available-tlds-with-stats)
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![No Maintenance Intended](https://img.shields.io/badge/No%20Maintenance%20Intended-x-red)
 
 ### DOMAINLISTS.IO API description
 *For power users and developers. Use it for batch domain lists downloads.*
