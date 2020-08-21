@@ -57,6 +57,8 @@ Endpoint: `https://domainlists.io/api/tlds/list/EMAIL/PASS/`
 *Note: you can list just Top 5 TLDs per category by passing querystring like:* 
 `https://domainlists.io/api/tlds/list/EMAIL/PASS/?top`
 
+###ZONE_CODE (domain TLD IDs):
+
 | TLD name  | ZONE_CODE |
 | --- | --- |
 |ALL DOMAINS|all_zones|
