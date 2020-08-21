@@ -1,6 +1,6 @@
 Domainlists.io Downloader  
-####### A simple Python script used to download lists from [Domainlists.io](https://domainlists.io/)  
 ===========
+A simple Python script used to download lists from [Domainlists.io](https://domainlists.io/)  
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
