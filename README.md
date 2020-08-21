@@ -10,11 +10,11 @@ API requires an active PRO plan subscription!
 
 ### Overview
 
-### Request format
+#### Request format
 
 `https://domainlists.io/api/LIST_TYPE/ZONE_CODE/YOUR_LOGIN/YOUR_PASSWORD/`
 
-### Results
+#### Results
 If everything is correct, API returns:
 *for domains lists: the requested list in plain text format (1 domain per line)
 *for domains + DNS lists: the requested list with domain name and pipe delimited DNS servers: domain.tld, DNS1|DNS2|DNS3|etc.
@@ -24,17 +24,17 @@ Paid subscription required
 Incorrect list type
 Incorrect zone id
 
-### Limits & warnings
+#### Limits & warnings
 API requires an active subscription (PRO plan)
 You can call API methods a maximum of 3000 times per day
 Some of the domain lists are really HUGE. The size of the 'all-in-one' zone file is about 3 Gb.
 
-## Variables
-### YOUR_LOGIN, YOUR_PASSWORD  
+### Variables
+#### YOUR_LOGIN, YOUR_PASSWORD  
 `YOUR_LOGIN` - your login on DOMAINLISTS.IO (usually your email address)  
 `YOUR_PASSWORD` - your password on DOMAINLISTS.IO  
 
-### LIST_TYPE (list types):  
+#### LIST_TYPE (list types):  
 `full` - full list of domains  
 `new` - list of new (added today) domains (for generic zones only)  
 `deleted` - list of deleted (removed today) domains (for generic zones only)  
