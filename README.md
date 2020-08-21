@@ -35,22 +35,22 @@ Some of the domain lists are really HUGE. The size of the 'all-in-one' zone file
 `YOUR_LOGIN` - your login on DOMAINLISTS.IO (usually your email address)
 `YOUR_PASSWORD` - your password on DOMAINLISTS.IO
 
-LIST_TYPE (list types):
-full - full list of domains
-new - list of new (added today) domains (for generic zones only)
-deleted - list of deleted (removed today) domains (for generic zones only)
-fulldns - full list of domains + DNS
-newdns - list of new (added today) domains + DNS (for generic zones only)
-deleteddns - list of deleted (removed today) domains + DNS (for generic zones only)
+### LIST_TYPE (list types):
+`full` - full list of domains
+`new` - list of new (added today) domains (for generic zones only)
+`deleted` - list of deleted (removed today) domains (for generic zones only)
+`fulldns` - full list of domains + DNS
+`newdns` - list of new (added today) domains + DNS (for generic zones only)
+`deleteddns` - list of deleted (removed today) domains + DNS (for generic zones only)
 
-List all currently available TLDs with stats
+### List all currently available TLDs with stats
 You can list all the currently supported TLDs in our database with statistics like:
-Total Websites, New Websites, Deleted Websites, ID of TLD and TLD name
+*Total Websites*, *New Websites*, *Deleted Websites*, *ID of TLD* and *TLD name*.
 
-Endpoint: https://domainlists.io/api/tlds/list/EMAIL/PASS/
+Endpoint: `https://domainlists.io/api/tlds/list/EMAIL/PASS/`
 
-Note: you can list just Top 5 TLDs per category by passing querystring like:
-https://domainlists.io/api/tlds/list/EMAIL/PASS/?top
+*Note: you can list just Top 5 TLDs per category by passing querystring like:*
+`https://domainlists.io/api/tlds/list/EMAIL/PASS/?top`
 
 | TLD name  | ZONE_CODE |
 | --- | --- |
