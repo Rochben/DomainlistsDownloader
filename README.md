@@ -49,7 +49,7 @@ You can list all the currently supported TLDs in our database with statistics li
 
 Endpoint: `https://domainlists.io/api/tlds/list/EMAIL/PASS/`
 
-*Note: you can list just Top 5 TLDs per category by passing querystring like:*
+*Note: you can list just Top 5 TLDs per category by passing querystring like:* 
 `https://domainlists.io/api/tlds/list/EMAIL/PASS/?top`
 
 | TLD name  | ZONE_CODE |
