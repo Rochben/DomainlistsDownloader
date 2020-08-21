@@ -1,8 +1,8 @@
 Domainlists.io Downloader  
 A simple Python script used to download lists from [Domainlists.io](https://domainlists.io/)
 ===========
-[![Variables](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://github.com/Rochben/DomainlistsDownloader#variables)
-[![Zone Codes](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://github.com/Rochben/DomainlistsDownloader#list-all-currently-available-tlds-with-stats)
+[![Variables](https://img.shields.io/badge/<Variables>-<STATUS>-<COLOR>.svg)](https://github.com/Rochben/DomainlistsDownloader#variables)
+[![Zone Codes](https://img.shields.io/badge/<Zone Codes>-<STATUS>-<COLOR>.svg)](https://github.com/Rochben/DomainlistsDownloader#list-all-currently-available-tlds-with-stats)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ### DOMAINLISTS.IO API description
