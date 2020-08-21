@@ -1,20 +1,19 @@
 # Domainlists.io Downloader
 A simple Python script used to download lists from [Domainlists.io](https://domainlists.io/)
 
-A PRO subscription is required in order to use the API.
+##DOMAINLISTS.IO API description
+*For power users and developers. Use it for batch domain lists downloads.*
 
-DOMAINLISTS.IO API description
- For power users and developers. Use it for batch domain lists downloads.
-Send simple GET-request to https://domainlists.io/api/
+##Send simple GET-request to
+`https://domainlists.io/api/`
 API requires an active PRO plan subscription!
 
+##Overview
 
-Overview
+###Request format
+`https://domainlists.io/api/LIST_TYPE/ZONE_CODE/YOUR_LOGIN/YOUR_PASSWORD/`
 
-Request format
-https://domainlists.io/api/LIST_TYPE/ZONE_CODE/YOUR_LOGIN/YOUR_PASSWORD/
-
-Results
+###Results
 If everything is correct, API returns:
 for domains lists: the requested list in plain text format (1 domain per line)
 for domains + DNS lists: the requested list with domain name and pipe delimited DNS servers: domain.tld, DNS1|DNS2|DNS3|etc.
