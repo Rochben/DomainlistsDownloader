@@ -30,21 +30,21 @@ You can call API methods a maximum of 3000 times per day
 Some of the domain lists are really HUGE. The size of the 'all-in-one' zone file is about 3 Gb.
 
 ## Variables
-### YOUR_LOGIN, YOUR_PASSWORD
-`YOUR_LOGIN` - your login on DOMAINLISTS.IO (usually your email address)
-`YOUR_PASSWORD` - your password on DOMAINLISTS.IO
+### YOUR_LOGIN, YOUR_PASSWORD  
+`YOUR_LOGIN` - your login on DOMAINLISTS.IO (usually your email address)  
+`YOUR_PASSWORD` - your password on DOMAINLISTS.IO  
 
-### LIST_TYPE (list types):
-`full` - full list of domains
-`new` - list of new (added today) domains (for generic zones only)
-`deleted` - list of deleted (removed today) domains (for generic zones only)
-`fulldns` - full list of domains + DNS
-`newdns` - list of new (added today) domains + DNS (for generic zones only)
-`deleteddns` - list of deleted (removed today) domains + DNS (for generic zones only)
+### LIST_TYPE (list types):  
+`full` - full list of domains  
+`new` - list of new (added today) domains (for generic zones only)  
+`deleted` - list of deleted (removed today) domains (for generic zones only)  
+`fulldns` - full list of domains + DNS  
+`newdns` - list of new (added today) domains + DNS (for generic zones only)  
+`deleteddns` - list of deleted (removed today) domains + DNS (for generic zones only)  
 
 
 ### List all currently available TLDs with stats
-You can list all the currently supported TLDs in our database with statistics like:
+You can list all the currently supported TLDs in our database with statistics like:  
 *Total Websites*, *New Websites*, *Deleted Websites*, *ID of TLD* and *TLD name*.
 
 Endpoint: `https://domainlists.io/api/tlds/list/EMAIL/PASS/`
