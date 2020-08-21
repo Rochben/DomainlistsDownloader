@@ -1,12 +1,12 @@
 import requests, os, csv, getpass
 
-# Input variables
+# List-related ariables
 email = input('Please type in your email address: ')
 password = getpass.getpass('Please type in your password: ')
 list_type = input('Please select the list type (full, new, deled, fulldns, newdns, deleteddns): ') or 'full'
 zone_code = input('Please type in a zone code: ') or 'all_zones'
 
-# File variables
+# File generating variables
 desktop = os.path.normpath(os.path.expanduser("~/Desktop"))
 filename = f'Domainlists_Zone_{zone_code}_{list_type.capitalize()}.csv'
 path = f"{desktop}/{filename}"
