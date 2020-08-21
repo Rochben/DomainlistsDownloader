@@ -1,8 +1,7 @@
 Domainlists.io Downloader  
 A simple Python script used to download lists from [Domainlists.io](https://domainlists.io/)
 ===========
-[![API description](https://github.com/Rochben/DomainlistsDownloader#domainlistsio-api-description)
-[![Zone Codes](https://github.com/Rochben/DomainlistsDownloader#list-all-currently-available-tlds-with-stats)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ### DOMAINLISTS.IO API description
 *For power users and developers. Use it for batch domain lists downloads.*
