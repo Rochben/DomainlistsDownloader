@@ -21,9 +21,10 @@ API requires an active PRO plan subscription!
 
 #### Results
 If everything is correct, API returns:  
-*for domains lists: the requested list in plain text format (1 domain per line)  
-*for domains + DNS lists: the requested list with domain name and pipe delimited DNS servers: domain.tld, DNS1|DNS2|DNS3|etc.  
-*In case of error you'll get an error description in plain text:  
+for `domains lists`: the requested list in plain text format (1 domain per line)  
+for `domains + DNS lists`: the requested list with domain name and pipe delimited DNS servers: domain.tld, DNS1|DNS2|DNS3|etc.  
+
+In case of error you'll get an error description in plain text:  
 Incorrect username or password  
 Paid subscription required  
 Incorrect list type  
