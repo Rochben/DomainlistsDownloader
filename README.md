@@ -1,8 +1,8 @@
 # Domainlists.io Downloader  
+###### A simple Python script used to download lists from [Domainlists.io](https://domainlists.io/)  
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)  
-###### A simple Python script used to download lists from [Domainlists.io](https://domainlists.io/)  
 
 ## DOMAINLISTS.IO API description
 *For power users and developers. Use it for batch domain lists downloads.*
