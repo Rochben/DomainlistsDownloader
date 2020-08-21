@@ -38,15 +38,10 @@ Some of the domain lists are really HUGE. The size of the 'all-in-one' zone file
 ### LIST_TYPE (list types):
 
 `full` - full list of domains
-
 `new` - list of new (added today) domains (for generic zones only)
-
 `deleted` - list of deleted (removed today) domains (for generic zones only)
-
 `fulldns` - full list of domains + DNS
-
 `newdns` - list of new (added today) domains + DNS (for generic zones only)
-
 `deleteddns` - list of deleted (removed today) domains + DNS (for generic zones only)
 
 
