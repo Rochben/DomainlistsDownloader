@@ -5,6 +5,7 @@ A simple Python script used to download lists from [Domainlists.io](https://doma
 *For power users and developers. Use it for batch domain lists downloads.*
 
 ##Send simple GET-request to
+
 `https://domainlists.io/api/`
 
 API requires an active PRO plan subscription!
