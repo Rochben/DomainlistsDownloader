@@ -1666,8 +1666,7 @@ Endpoint: `https://domainlists.io/api/tlds/list/EMAIL/PASS/`
 |.xn--jlq480n2rg	|1644
 |.flir	|1645
 
-Examples
+### Examples
 
-Typical API call example: https://domainlists.io/api/deleted/534/me@domainlists.io/MySecretPsw/
-
+Typical API call example: `https://domainlists.io/api/deleted/534/me@domainlists.io/MySecretPsw/`
 This returns a list of deleted .COM domains (534 is the code for .com zone, check the table above) using user account me@domainlists.io with password MySecretPsw.
